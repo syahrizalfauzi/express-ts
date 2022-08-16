@@ -5,6 +5,7 @@ Make sure you have Node.js runtime and npm installed on your machine, this start
 ## Installation
 ```
 git clone https://github.com/syahrizalfauzi/express-ts.git
+cd express-ts
 npm i
 ```
 
